@@ -9,7 +9,7 @@ body{
     margin: auto;
     position: relative;
     top: 300px;
-    transition-duration: 0.25s;
+    transition-duration: 0.5s;
     transition-property: all;
 }
 
